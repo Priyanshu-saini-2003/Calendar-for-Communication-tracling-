@@ -22,7 +22,7 @@ Follow these steps to set up the application locally:
 
 # Download the repository
 Clone the repository or download the ZIP file: https://github.com/Priyanshu-saini-2003/Calendar-for-Communication-tracling-
-git clone https://github.com/SushmaMandava09/Calendar-Application-for-Communication-Tracking-ENTNT
+
 cd Calendar-Application-for-Communication-Tracking-master
 # Install dependencies
   npm install
