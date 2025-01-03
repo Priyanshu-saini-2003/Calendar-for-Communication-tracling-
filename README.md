@@ -21,14 +21,15 @@ Interactive charts using Chart.js.
 Follow these steps to set up the application locally:
 
 # Download the repository
-Clone the repository or download the ZIP file:
+Clone the repository or download the ZIP file: https://github.com/Priyanshu-saini-2003/Calendar-for-Communication-tracling-
 git clone https://github.com/SushmaMandava09/Calendar-Application-for-Communication-Tracking-ENTNT
 cd Calendar-Application-for-Communication-Tracking-master
 # Install dependencies
   npm install
 # Run the project
 npm run dev
-
+# Deployment link
+https://majestic-palmier-069899.netlify.app/
 # Dependencies
 The application requires the following npm packages:
 
